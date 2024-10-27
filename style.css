@@ -20,6 +20,10 @@ body {
     margin: auto;
 }
 
+video {
+    width: 100%;
+}
+
 .layar-penuh {
     width: 100%;
 }
